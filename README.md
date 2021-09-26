@@ -1,6 +1,6 @@
 # GeneradorMusical
 Generador de notas musicales usando cadenas de Markov
 
-Reproduce notas usando beeps con diferentes frecuencias para simular las notas
+Reproduce notas usando beeps con diferentes frecuencias para simular los sonidos musicales
 
-video:
+link del video:
